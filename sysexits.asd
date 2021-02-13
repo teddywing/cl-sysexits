@@ -31,7 +31,7 @@
 
 (asdf:defsystem sysexits
   :description "Exit codes defined in sysexits.h"
-  :version "0.1.0"
+  :version "1.0.0"
   :license "BSD-3-Clause"
 
   :components ((:module "src"
