@@ -1,5 +1,5 @@
 (asdf:defsystem sysexits
-  :description "TODO"
+  :description "Exit codes defined in sysexits.h"
   :version "0.1.0"
 
   :components ((:module "src"
